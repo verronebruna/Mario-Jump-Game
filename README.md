@@ -1,1 +1,1 @@
-<p> Recriando o Jogo Mario Jump em JavaScript </p>
+<h1 align="center"> Recriando o Jogo Mario Jump em JavaScript: </h1>
